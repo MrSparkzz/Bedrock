@@ -8,12 +8,12 @@ import java.io.IOException;
 
 /**
  * Bedrock - http://code.sparkzz.net/
- *  > Copyright (c) 2015, MrSparkzz <http://www.sparkzz.net>
+ * 	> Copyright (c) 2015, MrSparkzz <http://www.sparkzz.net>
  *
  *     This program is free software: you can redistribute it and/or modify
  *     it under the terms of the GNU General Public License as published by
  *     the Free Software Foundation, either version 3 of the License, or
- *     (at your option) any later version.
+ *     (at your option) any later version. See <http://www.gnu.org/licenses/>.
  *
  * @since June 06, 2015
  */
